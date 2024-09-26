@@ -167,3 +167,6 @@ where rank_order <=3;
 Insights and Conclusion:
 
 In the project, I delved into 10 Ad-hoc queries, unraveling key details about top products, customers, markets, and crucial metrics like gross price, pre-invoice deductions, manufacturing costs, and sales quantity. “It's all about turning data into actionable insights!"
+Powerpoint Presentation - https://1drv.ms/p/c/bd7864f5aaa49a5c/EXcdQmsvfLVPsmU-OClHfQIBLnG3ZYVf4w00dswKWVjEVg?e=P6hsFw
+Linkdln-https://www.linkedin.com/in/sandra-d-6b44b8231/
+
