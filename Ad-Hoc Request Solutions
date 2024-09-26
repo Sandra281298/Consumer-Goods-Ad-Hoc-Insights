@@ -166,4 +166,5 @@ SELECT
   rank_order
 FROM ProductRanks
 WHERE rank_order <= 3;
+
  
